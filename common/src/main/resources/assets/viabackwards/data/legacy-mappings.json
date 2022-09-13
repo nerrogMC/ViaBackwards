@@ -3,86 +3,86 @@
     "251": {
       "id": 159,
       "data": -1,
-      "name": "1.12 %vb_color% Concrete",
+      "name": "1.12 %vb_color% コンクリート",
       "block": true
     },
     "252": {
       "id": 35,
       "data": -1,
-      "name": "1.12 %vb_color% Concrete Powder",
+      "name": "1.12 %vb_color% コンクリートパウダー",
       "block": true
     },
     "453": {
       "id": 340,
-      "name": "1.12 Knowledge Book"
+      "name": "1.12 知恵の本"
     },
     "355": {
       "id": 355,
-      "name": "1.12 %vb_color% Bed"
+      "name": "1.12 %vb_color% ベッド"
     },
     "235-250": {
       "id": 159,
-      "name": "1.12 %color% Glazed Terracotta",
+      "name": "1.12 %color% 彩釉テラコッタ",
       "block": true
     }
   },
   "1.11.1": {
     "452": {
       "id": 265,
-      "name": "1.11.1 Iron Nugget"
+      "name": "1.11.1 鉄塊"
     }
   },
   "1.11": {
     "218": {
       "id": 23,
       "data": -1,
-      "name": "1.11 Observer",
+      "name": "1.11 オブザーバー",
       "block": true
     },
     "449": {
       "id": 418,
-      "name": "1.11 Totem of Undying"
+      "name": "1.11 不死のトーテム"
     },
     "450": {
       "id": 433,
-      "name": "1.11 Shulker Shell"
+      "name": "1.11 シュルカーの殻"
     },
     "219-234": {
       "id": 158,
-      "name": "1.11 %color% Shulker Box",
+      "name": "1.11 %color% シュルカーボックス",
       "block": true
     }
   },
   "1.10": {
     "255": {
       "id": 217,
-      "name": "1.10 Structure Block"
+      "name": "1.10 ストラクチャーブロック"
     },
     "217": {
       "id": 287,
-      "name": "1.10 Structure Void",
+      "name": "1.10 ストラクチャーボイド",
       "block": true
     },
     "213": {
       "id": 159,
       "data": 1,
-      "name": "1.10 Magma Block",
+      "name": "1.10 マグマブロック",
       "block": true
     },
     "214": {
       "id": 159,
       "data": 14,
-      "name": "1.10 Nether Wart Block",
+      "name": "1.10 ネザーウォートブロック",
       "block": true
     },
     "215": {
       "id": 112,
-      "name": "1.10 Red Nether Bricks",
+      "name": "1.10 ネザーレンガ",
       "block": true
     },
     "216": {
       "id": 155,
-      "name": "1.10 Bone Block",
+      "name": "1.10 骨ブロック",
       "block": true
     }
   }
